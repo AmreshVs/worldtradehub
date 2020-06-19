@@ -1833,10 +1833,14 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   }
   .navbar .navbar-brand h3 {
     font-size: 24px;
-  },
+  }
   .ecaption{
     font-size: 22px;
   }
+}
+
+.video{
+  width: 90%;
 }
 
 .step-list li{
