@@ -420,7 +420,7 @@
           </ul>
         </div>
         <div class="col-lg-7 col-sm-12 col-md-12 col-12">
-          <video loop autoplay="autoplay" class="video">
+          <video loop autoplay="autoplay" class="video" muted defaultMuted playsinline >
             <source src="./video/app_showcase.mp4" type="video/mp4">
           </video>
         </div>
