@@ -20,7 +20,7 @@
           <a class="nav-link smoth-scroll" href="/contact">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link smoth-scroll grad-1 ebutton" href="https://app.worldtradehub.in">Login / Register</a>
+          <a class="nav-link smoth-scroll grad-1 ebutton" href="http://app.worldtradehub.in">Login / Register</a>
         </li>
       </ul>
     </div>

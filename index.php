@@ -12,7 +12,7 @@
                 <h1 class="banner-title">New innovations to meet all business entrepreneurs</h1>
                 <p>Access to the global digital business network. Possibility of targeted advertising, the growth in the
                   number of potential customers.</p>
-                <a href="https://app.worldtradehub.in" class="btn btn-white btn-circled">lets start</a>
+                <a href="http://app.worldtradehub.in" class="btn btn-white btn-circled">lets start</a>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12 col-md-12 d-flex align-items-center wow bounceInUp">
