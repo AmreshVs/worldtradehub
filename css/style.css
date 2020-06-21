@@ -1837,6 +1837,16 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   .ecaption{
     font-size: 22px;
   }
+  .event-title{
+    font-size: 14px;
+  }
+  .event-dates{
+    font-size: 14px;
+  }
+}
+
+.event:hover{
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2) !important;
 }
 
 .video{
@@ -1863,7 +1873,7 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   border-radius: 10px;
 }
 
-#features h3, .app-showcase h3{
+#features h3, .app-showcase h3, #events h3{
   color: #2b92ff;
 }
 
@@ -1873,6 +1883,11 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
 
 .header-mock-img{
   padding-top: 100px;
+}
+
+.event-img{
+  min-height: 115px;
+  max-height: 115px;
 }
 
 /*# sourceMappingURL=maps/style.css.map */

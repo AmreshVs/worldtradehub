@@ -47,7 +47,7 @@
               <div class="intro-box">
                 <span>01.</span>
                 <h4>Saving Resources</h4>
-                <p>Event will occur oline, thus save time and finanical resources by convinent service and wide choice.
+                <p>Event will occur online, thus save time and financial resources by convenient service and wide choice.
                 </p>
               </div>
             </div>
@@ -56,14 +56,14 @@
                 <span>02.</span>
                 <h4>Attractive Price</h4>
                 <p>We have wide range of exhibitors and products to choose from. Get to see and buy all the world class
-                  products at afforable price. </p>
+                  products at affordable price. </p>
               </div>
             </div>
             <div class="col-lg-6 col-sm-6 col-md-6 col-6">
               <div class="intro-box">
                 <span>03.</span>
                 <h4>Service</h4>
-                <p>You’ll form a lasting relationship with us, collaboration is central to we do.Digital experiences
+                <p>You’ll form a lasting relationship with us, collaboration is central to we do. Digital experiences
                   connect people.</p>
               </div>
             </div>
@@ -95,8 +95,7 @@
           <div class="section-heading text-white">
             <h4 class="section-title">About the Project</h4>
             <p>We’re full service which means we’ve got you covered on getting the right lead through the digital.
-              You’ll
-              form a lasting relationship with us.</p>
+              You’ll form a lasting relationship with us.</p>
           </div>
         </div>
       </div>
@@ -139,7 +138,7 @@
             </div>
             <div class="service-inner">
               <h4>Resource optimization</h4>
-              <p>Online expo helps organisers, exhibitors and visitors optimize time, financial, human resources
+              <p>Online expo helps organizers, exhibitors and visitors optimize time, financial, human resources
                 significantly and offers unique opportunities for successful development in a modern digital economy
                 hazzle free.</p>
             </div>
@@ -181,9 +180,9 @@
             <div class="service-inner">
               <h4>Link Building </h4>
               <p>By wide range of audience from this online expo the consumers will be able to grow their
-                <span>potential visitor</span>, to make it more effective and succesful
-                business by attracting the attention of target audience and targeted communication without having to
-                move the products to the event. </p>
+                <span>potential visitor</span>, to make it more effective and successful
+                business by attracting the attention of targeted audience, communication without having to
+                move the products to the event.</p>
             </div>
           </div>
         </div>
@@ -218,7 +217,7 @@
                 <em class="icofont icofont-check-circled"></em> Convenient way of making orders
               </li>
               <li>
-                <em class="icofont icofont-check-circled"></em> Optimisation of expenses n manpower
+                <em class="icofont icofont-check-circled"></em> Optimization of expenses n manpower
               </li>
               <li>
                 <em class="icofont icofont-check-circled"></em> Global digital business network
@@ -522,6 +521,11 @@
       </div>
     </div>
   </section>
+
+  <?php
+    include './events.php';
+  ?>
+ 
 
   <section class="section-padding client-logo wow fadeInUp">
     <div class="container">
