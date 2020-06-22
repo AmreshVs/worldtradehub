@@ -4,7 +4,7 @@ include './db/connect.php';
 $events = getArray("SELECT event_id, event_title, event_start_date, event_end_date, event_image from events WHERE event_status = 1 ORDER BY event_id ASC");
 
 ?>
-<section id="events" class="section-padding wow fadeInUp pt-0 pb-0">
+<section id="events" class="section-padding wow fadeInUp pb-0">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-6 text-center">

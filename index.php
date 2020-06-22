@@ -24,6 +24,10 @@
     </div>
   </div>
 
+  <?php
+    include './events.php';
+  ?>
+
   <section id="intro" class="section-padding wow fadeInUp">
     <div class="container">
       <div class="row">
@@ -521,11 +525,6 @@
       </div>
     </div>
   </section>
-
-  <?php
-    include './events.php';
-  ?>
- 
 
   <section class="section-padding client-logo wow fadeInUp">
     <div class="container">
