@@ -25,7 +25,7 @@ $events = getArray("SELECT event_id, event_title, event_start_date, event_end_da
                 <a class="event card" href="http://app.worldtradehub.in">
                   <div class="row">
                     <div class="col-sm-4 col-5 pr-0">
-                      <img class="event-img" src="<?php echo "http://admin.worldtradehub.in/" . $event['event_image']; ?>" alt="<?php echo $event['event_title']; ?>" />
+                      <img class="event-img" src="<?php echo "https://admin.worldtradehub.in" . $event['event_image']; ?>" alt="<?php echo $event['event_title']; ?>" />
                     </div>
                     <div class="col-sm-8 col-7">
                       <h5 class="event-title pr-3"><?php echo $event['event_title']; ?></h5>
