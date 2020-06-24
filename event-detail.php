@@ -71,7 +71,7 @@
     </div>
   </div>
 </div>
-<a id="whatsapp" class="whatsapp-icon" href="https://api.whatsapp.com/send?text=<?php echo $title; ?>" target="_blank">
+<a id="whatsapp" class="whatsapp-icon" href="https://api.whatsapp.com/send?text=https://worldtradehub.in/event_detail?id=<?php echo $id; ?>" target="_blank">
   <img class="share-img" width="25px" height="25px" src="/images/icon/social-01-512.webp" alt="Whatsapp">
 </a>
 
