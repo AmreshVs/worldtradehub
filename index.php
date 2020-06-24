@@ -28,6 +28,23 @@
     include './events.php';
   ?>
 
+  <section class="section-padding client-logo wow fadeInUp pb-0">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
+          <img src="images/clients/makeinindia.png" alt="partner" class="img-fluid">
+        </div>
+        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
+          <img src="images/clients/digital_india.png" alt="partner" class="img-fluid">
+        </div>
+        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
+          <img src="images/clients/startup_india.png" alt="partner" class="img-fluid">
+        </div>
+        <p class="supportText"><b>Support:</b> Make In India, Digital India, Startup India</p>
+      </div>
+    </div>
+  </section>
+
   <section id="intro" class="section-padding wow fadeInUp">
     <div class="container">
       <div class="row">
@@ -86,20 +103,6 @@
                 <a href="#contact" class="smoth-scroll grad-1 ebutton">Contact us</a>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="service-head" class=" bg-feature grad-2 wow fadeInUp">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 col-sm-12 m-auto">
-          <div class="section-heading text-white">
-            <h4 class="section-title">About the Project</h4>
-            <p>We’re full service which means we’ve got you covered on getting the right lead through the digital.
-              You’ll form a lasting relationship with us.</p>
           </div>
         </div>
       </div>
@@ -225,6 +228,9 @@
               </li>
               <li>
                 <em class="icofont icofont-check-circled"></em> Global digital business network
+              </li>
+              <li>
+                <em class="icofont icofont-check-circled"></em> Saves Time n Money
               </li>
             </ul>
           </div>
@@ -535,22 +541,6 @@
               </a>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section-padding client-logo wow fadeInUp">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/makeinindia.png" alt="partner" class="img-fluid">
-        </div>
-        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/made_in_india.png" alt="partner" class="img-fluid">
-        </div>
-        <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/digital_india.png" alt="partner" class="img-fluid">
         </div>
       </div>
     </div>

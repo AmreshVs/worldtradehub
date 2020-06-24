@@ -7,9 +7,9 @@ $events = getArray("SELECT event_id, event_title, event_start_date, event_end_da
 <section id="events" class="section-padding wow fadeInUp pb-0">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-lg-6 text-center">
+        <div class="col-lg-7 text-center">
           <div class="mb-5">
-            <h3 class="mb-2">Events</h3>
+            <h3 class="mb-2">India's First Largest Online Trade Show</h3>
             <p>List of events that are about to begin soon, be a part of it!</p>
           </div>
         </div>

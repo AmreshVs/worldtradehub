@@ -1867,6 +1867,9 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   .eventDesc h4{
     font-size: 18px !important;
   }
+  h5.event-title{
+    font-size: 15px !important;
+  }
 }
 
 .whatsapp-icon {
@@ -1927,8 +1930,17 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   border-radius: 10px;
 }
 
-h5.event-title, .event-dates {
+h5.event-title {
   color: #FFF !important;
+  font-size: 19px;
+}
+
+.event-dates {
+  color: #FFF !important;
+}
+
+.supportText{
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
