@@ -35,10 +35,10 @@
           <img src="images/clients/makeinindia.png" alt="makeinindia" class="img-fluid">
         </div>
         <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/startup_india.png" alt="startup_india" class="img-fluid">
+          <img src="images/clients/digital_india.png" alt="digital_india" class="img-fluid">
         </div>
         <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/digital_india.png" alt="digital_india" class="img-fluid">
+          <img src="images/clients/startup_india.png" alt="startup_india" class="img-fluid">
         </div>
         <p class="supportText"><b>Support:</b> Make In India, Digital India, Startup India</p>
       </div>
