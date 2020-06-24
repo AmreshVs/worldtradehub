@@ -8,7 +8,7 @@
           <div class="row">
             <div class="col-lg-6 text-center col-sm-12 col-md-12 wow slideInLeft">
               <div class="banner-content content-padding">
-                <h5 class="subtitle">First largest online expo</h5>
+                <h5 class="subtitle">India's First Largest Online Trade Show</h5>
                 <h1 class="banner-title">New innovations to meet all business entrepreneurs</h1>
                 <p>Access to the global digital business network. Possibility of targeted advertising, the growth in the
                   number of potential customers.</p>
