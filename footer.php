@@ -31,8 +31,6 @@
                 <li><a href="#">How it Works</a></li>
                 <li><a href="#">Support</a></li>
                 <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Report Bug</a></li>
-                <li><a href="#">License</a></li>
                 <li><a href="#">Terms & Condition</a></li>
               </ul>
             </div>
@@ -41,7 +39,7 @@
             <div class="footer-widget footer-text">
               <h4>Our location</h4>
               <p class="mail"><span>Mail:</span> worldtradehub.in@gmail.com</p>
-              <p><span>Location:</span> No.106, Royal Placid Layout, Harlur HSR Layout Phase 1, <br/> Bangalore, Karnataka, India. 562102 </p>
+              <p><span>Location:</span><br/> Jagaur Media & Entertainment LLP, <br/> No.106, Royal Placid Layout, Harlur HSR Layout Phase 1, <br/> Bangalore, Karnataka, India. 562102 </p>
             </div>
           </div>
         </div>

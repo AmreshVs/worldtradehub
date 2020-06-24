@@ -40,7 +40,7 @@ $events = getArray("SELECT event_id, event_title, event_start_date, event_end_da
         ?>
       </div>
       <div class="text-center mt-3">
-        <a href="http://app.worldtradehub.in" class="smoth-scroll grad-1 ebutton">Join Now</a>
+        <a href="http://app.worldtradehub.in" class="smoth-scroll grad-1 ebutton">Exhibit / Visit</a>
       </div>
     </div>
   </section>

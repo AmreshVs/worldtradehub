@@ -35,7 +35,7 @@
           <div class="section-heading">
             <p class="lead">We Support to develop economy condition by giving Effective opportunity to strengthen
               business positions and enter new markets</p>
-            <p><strong class="ecaption">Why join us?</strong></p>
+            <p><strong class="ecaption">Why Exhibit / Visit us?</strong></p>
           </div>
         </div>
       </div>
@@ -372,9 +372,23 @@
           <div class="pricing-block ">
             <div class="price-header">
               <i class="icofont-diamond grad-2"></i>
-              <h5>For Exhibitor</h5>
+              <h5>For Exhibitor (India)</h5>
               <h5>Starting from</h5>
               <h4 class="price"><small>₹</small>9999</h4>
+            </div>
+            <div class="line"></div>
+            <ul>
+              <li>Unlimited Leads</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <div class="pricing-block ">
+            <div class="price-header">
+              <i class="icofont-diamond grad-2"></i>
+              <h5>For Exhibitor (Foreign)</h5>
+              <h5>Starting from</h5>
+              <h4 class="price"><small>₹</small>19999</h4>
             </div>
             <div class="line"></div>
             <ul>
