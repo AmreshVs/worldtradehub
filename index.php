@@ -35,10 +35,10 @@
           <img src="images/clients/makeinindia.png" alt="partner" class="img-fluid">
         </div>
         <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/digital_india.png" alt="partner" class="img-fluid">
+          <img src="images/clients/made_in_india.png" alt="partner" class="img-fluid">
         </div>
         <div class="col-lg-3 col-sm-6 col-md-3 col-3 text-center">
-          <img src="images/clients/startup_india.png" alt="partner" class="img-fluid">
+          <img src="images/clients/digital_india.png" alt="partner" class="img-fluid">
         </div>
         <p class="supportText"><b>Support:</b> Make In India, Digital India, Startup India</p>
       </div>
@@ -103,6 +103,19 @@
                 <a href="#contact" class="smoth-scroll grad-1 ebutton">Contact us</a>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="service-head" class=" bg-feature grad-2 wow fadeInUp">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-sm-12 m-auto">
+          <div class="section-heading text-white">
+            <h4 class="section-title">About the Project</h4>
+            <p class="supportText">WORLD TRADE HUB is launching online trade shows to help Indian Enterpreneurs reach global buyers as a solution to cancellation / postponements of the all exhibitions from <strong>COVID-19</strong> </p>
           </div>
         </div>
       </div>
