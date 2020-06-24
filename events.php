@@ -22,12 +22,12 @@ $events = getArray("SELECT event_id, event_title, event_start_date, event_end_da
         ?>
             <div class="col-sm-6 mb-3 col-12 p-0">
               <div class="container">
-                <a class="event card" href="http://app.worldtradehub.in">
+                <a class="event card grad-2-still" href="http://app.worldtradehub.in">
                   <div class="row">
                     <div class="col-sm-4 col-5 pr-0">
                       <img class="event-img" src="<?php echo "https://admin.worldtradehub.in" . $event['event_image']; ?>" alt="<?php echo $event['event_title']; ?>" />
                     </div>
-                    <div class="col-sm-8 col-7">
+                    <div class="col-sm-8 col-7 pl-0">
                       <h5 class="event-title pr-3"><?php echo $event['event_title']; ?></h5>
                       <p class="text-muted event-dates"><?php echo date("d/m/Y", $start_date) . ' - ' . date("d/m/Y", $end_date); ?></p>
                     </div>
