@@ -35,7 +35,7 @@
           <div class="section-heading">
             <p class="lead">We Support to develop economy condition by giving Effective opportunity to strengthen
               business positions and enter new markets</p>
-            <p><strong class="ecaption">Why Exhibit / Visit us?</strong></p>
+            <p><strong class="ecaption">Why Exhibit / Visit with us?</strong></p>
           </div>
         </div>
       </div>
