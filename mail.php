@@ -2,7 +2,6 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-        # FIX: Replace this email with recipient email
         $mail_to = "amreshcse007@gmail.com";
         ini_set("SMTP","smtp.gmail.com");
         ini_set("smtp_port","587");
@@ -34,7 +33,8 @@
         if ($success) {
             # Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Thank You! Your message has been sent.";
+            echo "<script>alert('Thank You! Your message has been sent')</script>";
+            header("Location: https://worldtradehub.com");
         } else {
             # Set a 500 (internal server error) response code.
             http_response_code(500);

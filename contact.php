@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="zxx">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta
-      name="keywords"
-      content=""
-    />
-    <meta name="author" content="" />
-
-    <title>World Trade Hub</title>
-    <!-- bootstrap.min css -->
-    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css" />
-    <!-- Icofont Css -->
-    <link rel="stylesheet" href="plugins/fontawesome/css/all.css" />
-    <!-- animate.css -->
-    <link rel="stylesheet" href="plugins/animate-css/animate.css" />
-    <!-- Icofont -->
-    <link rel="stylesheet" href="plugins/icofont/icofont.css" />
-
-    <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="css/style.css" />
-  </head>
-
-  <body data-spy="scroll" data-target=".fixed-top">
+    <?php include './header.php'?>
     <?php include('./nav.php') ?>
     <!--MAIN HEADER AREA END -->
     <!--MAIN BANNER AREA START -->
