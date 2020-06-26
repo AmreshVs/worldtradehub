@@ -30,7 +30,7 @@
         </div>
         <div class="row">
           <div class="col-lg-7 col-sm-12">
-            <form class="contact__form" method="post" action="mail.php">
+            <form class="contact__form" method="post" id="contact_form">
               <!-- form message -->
               <div class="row">
                 <div class="col-12">
@@ -94,7 +94,23 @@
         </div>
       </div>
     </section>
-
-    <?php include('./footer.php'); ?>
+    
+    <?php include './footer.php'; ?>
+    <script>
+      $('#contact_form').on('submit', function(e){
+        e.preventDefault();
+        var values = $(this).serialize();
+        $.ajax({
+          url: './mail.php?' + values,
+          method: 'POST',
+        })
+        .success(function(data) {
+          alert(data);
+        })
+        .error(function(error) {
+          alert(error);
+        })
+      });
+    </script>
   </body>
 </html>

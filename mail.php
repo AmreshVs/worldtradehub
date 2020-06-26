@@ -8,10 +8,10 @@
         ini_set("auth_username","worldtradehub.in@gmail.com");
         ini_set("auth_password","Venkatesh@123");
         # Sender Data
-        $subject = trim($_POST["subject"]);
-        $name = str_replace(array("\r","\n"),array(" "," ") , strip_tags(trim($_POST["name"])));
-        $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
-        $message = trim($_POST["message"]);
+        $subject = trim($_GET["subject"]);
+        $name = str_replace(array("\r","\n"),array(" "," ") , strip_tags(trim($_GET["name"])));
+        $email = filter_var(trim($_GET["email"]), FILTER_SANITIZE_EMAIL);
+        $message = trim($_GET["message"]);
         
         if ( empty($name) OR !filter_var($email, FILTER_VALIDATE_EMAIL) OR empty($subject) OR empty($message)) {
             # Set a 400 (bad request) response code and exit.
@@ -33,18 +33,17 @@
         if ($success) {
             # Set a 200 (okay) response code.
             http_response_code(200);
-            echo "<script>alert('Thank You! Your message has been sent')</script>";
-            header("Location: https://worldtradehub.com");
+            exit("Thank You! Your message has been sent!");
         } else {
             # Set a 500 (internal server error) response code.
             http_response_code(500);
-            echo "Oops! Something went wrong, we couldn't send your message.";
+            exit("Oops! Something went wrong, we couldn't send your message.");
         }
 
     } else {
         # Not a POST request, set a 403 (forbidden) response code.
         http_response_code(403);
-        echo "There was a problem with your submission, please try again.";
+        exit("There was a problem with your submission, please try again.");
     }
 
 ?>
