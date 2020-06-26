@@ -1,5 +1,5 @@
-    <?php include './header.php'?>
-    <?php include('./nav.php') ?>
+    <?php include './header.php'; ?>
+    <?php include './nav.php'; ?>
     <!--MAIN HEADER AREA END -->
     <!--MAIN BANNER AREA START -->
     <div class="page-banner-area grad-2" id="page-banner">
@@ -75,7 +75,7 @@
                   <input
                     name="submit"
                     type="submit"
-                    class="btn btn-white btn-circled"
+                    class="btn btn-primary btn-circled"
                     value="Send Message"
                   />
                 </div>
