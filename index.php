@@ -213,7 +213,7 @@
   <section id="about" class="mb-5 wow fadeInUp">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-6 col-sm-12 col-md-12 p-5">
+        <div class="col-lg-6 col-sm-12 col-md-12 p-3">
           <div class="about-content">
             <h3>Benefits for Visitors</h3>
             <p>It will be a huge support to refresh / restart your startup business by saving time and financial resources</p>
@@ -228,22 +228,22 @@
                 <em class="icofont icofont-check-circled"> </em> Suited service and wide choice
               </li>
               <li>
-                <em class="icofont icofont-check-circled"> </em> Direct and effective communication
-              </li>
-              <li>
                 <em class="icofont icofont-check-circled"> </em> Offers or discounted price
               </li>
               <li>
                 <em class="icofont icofont-check-circled"></em> Convenient way of making orders
               </li>
               <li>
-                <em class="icofont icofont-check-circled"></em> Optimization of expenses n manpower
-              </li>
-              <li>
                 <em class="icofont icofont-check-circled"></em> Global digital business network
               </li>
               <li>
                 <em class="icofont icofont-check-circled"></em> Saves Time n Money
+              </li>
+              <li>
+                <em class="icofont icofont-check-circled"> </em> Direct and effective communication
+              </li>
+              <li>
+                <em class="icofont icofont-check-circled"></em> Optimization of expenses n manpower
               </li>
             </ul>
           </div>
@@ -378,7 +378,7 @@
             <div class="price-header">
               <i class="icofont-rocket-alt-1 grad-2"></i>
               <h5>For Visitor</h5>
-              <h5>Starting from</h5>
+              <h5>Entry Pass</h5>
               <h4 class="price"><small>₹</small>200</h4>
             </div>
             <div class="line"></div>
@@ -392,7 +392,7 @@
             <div class="price-header">
               <i class="icofont-diamond grad-2"></i>
               <h5>For Exhibitor (India)</h5>
-              <h5>Starting from</h5>
+              <h5>To Book Stall</h5>
               <h4 class="price"><small>₹</small>9999</h4>
             </div>
             <div class="line"></div>
@@ -406,7 +406,7 @@
             <div class="price-header">
               <i class="icofont-diamond grad-2"></i>
               <h5>For Exhibitor (Foreign)</h5>
-              <h5>Starting from</h5>
+              <h5>To Book Stall</h5>
               <h4 class="price"><small>₹</small>19999</h4>
             </div>
             <div class="line"></div>
