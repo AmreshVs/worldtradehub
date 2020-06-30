@@ -606,7 +606,12 @@ INner Pages
 =========================================*/
 #page-banner {
   position: relative;
-  padding: 60px 0px 80px;
+  padding: 90px 0px 20px;
+}
+
+#content-banner {
+  position: relative;
+  padding: 28px 0px 20px;
 }
 
 .page-banner-area {
@@ -1536,6 +1541,12 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   .footer-widget {
     margin-bottom: 30px;
   }
+  .counts h3{
+    font-size: 20px !important;
+  }
+  h5.event-title {
+    font-size: 14px !important;
+  }
 }
 
 /*Small devices (landscape phones, 576px and up)*/
@@ -1687,6 +1698,12 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   }
   .section-padding {
     padding: 40px 0px;
+  }
+  .section-padding h2{
+    font-size: 23px;
+  }
+  .section-padding h3{
+    font-size: 20px;
   }
   .section-heading {
     margin: 0 auto 0px;
@@ -1867,6 +1884,25 @@ div.wh-widget-send-button-wrapper.wh-widget-right div.wh-widget-send-button-wrap
   .banner-content .subtitle{
     font-size: 19.6px !important;
   }
+  .header-white + #countdown {
+    top: 50px !important;
+  }
+  .counts h3, .counts h6 {
+    font-size: 12px !important;
+  }
+  #countdown .counts{
+    padding: 0px;
+  }
+  .counts h6{
+    margin-top: -10px;
+  }
+  .counts h3{
+    margin-top: -5px;
+  }
+}
+
+.copyright li, .privacy li{
+  list-style: disc;
 }
 
 .lead{
@@ -1942,6 +1978,28 @@ h5.event-title {
 
 .supportText{
   font-size: 20px;
+}
+
+#countdown{
+  display: none;
+}
+
+.header-white + #countdown{
+  display: block !important;
+  position: fixed;
+  z-index: 999;
+  top: 57px;
+  width: 100%;
+}
+
+.counts h3, .counts h6{
+  color: #FFF;
+}
+
+#countdown .row.grad-2{
+  border-bottom-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 /*# sourceMappingURL=maps/style.css.map */

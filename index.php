@@ -100,7 +100,7 @@
             <div class="col-lg-12">
               <div class="intro-cta">
                 <p class="lead ">Still have any question on mind ?</p>
-                <a href="#contact" class="smoth-scroll grad-1 ebutton">Contact us</a>
+                <a href="/contact" class="smoth-scroll grad-1 ebutton">Contact us</a>
               </div>
             </div>
           </div>

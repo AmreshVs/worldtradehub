@@ -26,3 +26,26 @@
     </div>
   </div>
 </nav>
+
+<section id="countdown" class="wow fadeInUp">
+  <div class="container">
+    <div class="row grad-2 shadow justify-content-center">
+      <div class="col-sm-2 col-2 counts text-center">
+        <h3>1532+</h3>
+        <h6>Exhibitors</h6>
+      </div>
+      <div class="col-sm-2 col-2 counts text-center">
+        <h3>1056+</h3>
+        <h6>Visitors</h6>
+      </div>
+      <div class="col-sm-2 col-2 counts text-center">
+        <h3>5624+</h3>
+        <h6>Products</h6>
+      </div>
+      <div class="col-sm-4 col-3 counts text-center">
+        <h3 class="count date-count">1532</h3>
+        <h6>Starts On</h6>
+      </div>
+    </div>
+  </div>
+</section>

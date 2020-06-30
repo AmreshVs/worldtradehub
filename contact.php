@@ -6,7 +6,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
-            <div class="banner-content content-padding">
+            <div class="banner-content">
               <h1 class="text-white">Let's Connect with us</h1>
               <p>Have questions about our product?</p>
             </div>

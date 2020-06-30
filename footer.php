@@ -15,11 +15,8 @@
               <h4>About</h4>
               <ul>
                 <li><a href="#">About</a></li>
-                <li><a href="#">Service</a></li>
-                <li><a href="#">Pricing</a></li>
-                <li><a href="#">Team</a></li>
-                <li><a href="#">Testimonials</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="/#service-head">Service</a></li>
+                <li><a href="/#pricing">Pricing</a></li>
               </ul>
             </div>
           </div>
@@ -29,9 +26,9 @@
               <h4>Quick Links</h4>
               <ul>
                 <li><a href="#">How it Works</a></li>
-                <li><a href="#">Support</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Terms & Condition</a></li>
+                <li><a href="/contact">Support</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/terms-and-conditions">Terms & Condition</a></li>
               </ul>
             </div>
           </div>
