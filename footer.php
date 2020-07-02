@@ -14,7 +14,7 @@
             <div class="footer-widget footer-link">
               <h4>About</h4>
               <ul>
-                <li><a href="#">About</a></li>
+                <li><a href="/about-us">About Us</a></li>
                 <li><a href="/#service-head">Service</a></li>
                 <li><a href="/#pricing">Pricing</a></li>
               </ul>
