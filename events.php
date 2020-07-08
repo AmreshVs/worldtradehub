@@ -3,6 +3,9 @@ include './db/connect.php';
 
 $events = getArray("SELECT event_id, event_title, event_start_date, event_end_date, event_image from events WHERE event_status = 1 ORDER BY event_id ASC");
 
+if(isset($_REQUEST['type'])){
+  $type = $_REQUEST['type'];
+}
 ?>
 <section id="events" class="section-padding wow fadeInUp pb-0">
     <div class="container">
@@ -39,8 +42,28 @@ $events = getArray("SELECT event_id, event_title, event_start_date, event_end_da
           }
         ?>
       </div>
-      <div class="text-center mt-3">
-        <a href="http://app.worldtradehub.in" class="smoth-scroll grad-1 ebutton">Exhibit / Visit</a>
-      </div>
+      <?php
+        if(!isset($_REQUEST['type'])){
+        ?>
+        <div class="text-center mt-3">
+          <a href="http://app.worldtradehub.in" class="smoth-scroll grad-1 ebutton">Exhibit / Visit</a>
+        </div>
+        <?php
+        }
+        if(isset($_REQUEST['type']) && $type === 'v'){
+        ?>
+        <div class="text-center mt-3">
+          <a href="http://app.worldtradehub.in/register/visitor" class="smoth-scroll grad-1 ebutton">Visit</a>
+        </div>
+        <?php
+        }
+        if(isset($_REQUEST['type']) && $type === 'e'){
+        ?>
+        <div class="text-center mt-3">
+          <a href="http://app.worldtradehub.in/register/exhibitor" class="smoth-scroll grad-1 ebutton">Exhibit</a>
+        </div>
+        <?php
+        }
+        ?>
     </div>
   </section>
